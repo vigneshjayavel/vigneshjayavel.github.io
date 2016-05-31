@@ -1,0 +1,4 @@
+---
+title: Movies
+permalink: /movies/
+---
